@@ -16,4 +16,4 @@ This project is a Java-based Image Steganography system that enables users to **
 
 ---
 
-## 📁 Project Structure
+## 🖼️ Screenshots
